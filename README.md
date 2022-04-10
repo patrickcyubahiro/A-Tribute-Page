@@ -119,7 +119,7 @@
         <li><a href="#">Terms</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
-      <span>Copyright 2016, Original Trombones</span>
+      <span>Copyright 2020, Original Trombones</span>
     </footer>
   </div>
 </div>
